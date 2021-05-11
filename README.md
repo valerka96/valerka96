@@ -27,3 +27,8 @@
     <img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" height="40"
     width="40" />
 </a>
+<h3 align="left">My reddit:</h3>
+<a href="https://www.reddit.com/user/valerkooo" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/14413/reddit.svg" height="40"
+    width="40" />
+</a>
