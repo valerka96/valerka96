@@ -32,14 +32,10 @@
 <hr>
 <br>
 
-
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=pandabug&show_icons=true&theme=tokyonight" />
-<img align="left" width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/ivan_____02/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30"
+<a href="https://www.instagram.com/starko.py/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40"
     width="40" />
 </a>
