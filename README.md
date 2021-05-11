@@ -19,10 +19,11 @@
     <a href="https://www.codewars.com/users/valerka96" target="_blank"> 
         <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
     </a>
-    <a href="https://github.com/valerka96/codewars" target="_blank">     
-        <h2 align = "left">My solutions to codewars exercises</h2>
-    </a>
 
+<a href="https://github.com/valerka96/codewars" target="_blank">     
+    <h2 align = "left">My solutions to codewars exercises</h2>
+</a>
+</p>
 <br>
 <br>
 <hr>
