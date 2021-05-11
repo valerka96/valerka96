@@ -24,9 +24,9 @@
         <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
     </a>
 
-
-<a href="https://github.com/valerka96/codewars" target="_blank">     
+<p align = "left">
     <h2 align = "left">Solutions to codewars exercises</h2>
+    <a href="https://github.com/valerka96/codewars" target="_blank">
     </a>
 </p>
 <br>
