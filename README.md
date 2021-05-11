@@ -1,6 +1,6 @@
 <h1 align="center"><p style = "font-family: Times New Roman"> Hi, I'm Valerii Starko</p></h1>
 <p align = "center">
-    <img src = "https://media3.giphy.com/media/vdOn9oV2rF5ITGfUuN/giphy.gif?cid=ecf05e47xghti2uv2qotehqzcovez24pnuazerxfrqqdazq2&rid=giphy.gif&ct=g" height="300" width="250" />
+    <img src = "https://media4.giphy.com/media/RHEqKwRZDwFKE/giphy.gif?cid=ecf05e47hqks7rvc62ojdf12woxarfljxpqr68d922fxepwd&rid=giphy.gif&ct=g" height="200" width="500" />
 </p>
 <br>
 
