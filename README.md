@@ -1,5 +1,7 @@
 <h1 align="center"><p style = "font-family: Times New Roman"> Hi, I'm Valerii Starko</p></h1>
-
+<p align = "center">
+    <img src = "https://media3.giphy.com/media/8fRwPZtbWkkX6/giphy.gif?cid=ecf05e47rxp98bvmprcj1y1yqj8p4vt4187v2keshuva3fa5&rid=giphy.gif&ct=g">
+</p>
 <br>
 
 <h2 align="left">Languages, Tutorials and Tools:</h2>
