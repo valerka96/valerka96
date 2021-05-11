@@ -26,7 +26,7 @@
 
 <p align = "left">
     <h2 align = "left">Solutions to codewars exercises</h2>
-    <a href="https://github.com/valerka96/codewars" target="_blank">
+        <a href="https://github.com/valerka96/codewars" target="_blank">
     </a>
 </p>
 <br>
