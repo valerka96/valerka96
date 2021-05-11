@@ -1,4 +1,4 @@
-<h1 align="center"><p style = "font-family:courier,arial,helvetica;"> Hi, I'm Valerii Starko</p></h1>
+<h1 align="center"><p style = "font-family: arial"> Hi, I'm Valerii Starko</p></h1>
 
 <br>
 
