@@ -14,6 +14,7 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
     </a>
 </p>
+<hr>
 <p align = "left">
 <h2 align = "left">Solutions to the exercises from different sites: </h2>
 <p align = "left"> 
