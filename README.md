@@ -21,7 +21,7 @@
 <h2 align = "left">Solutions to the exercises from different sites: </h2>
 <p align = "left"> 
     <a href="https://www.codewars.com/users/valerka96" target="_blank"> 
-        <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
+        <h2 align= "left"> My level on codewars</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
     </a>
 <p align = "left"> 
     <a href="https://github.com/valerka96/codewars" target="_blank"> 
