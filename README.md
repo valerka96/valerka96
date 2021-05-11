@@ -25,10 +25,11 @@
     </a>
 
 <p align = "left">
-    <h2 align = "left">Solutions to codewars exercises</h2>
-        <a href="https://github.com/valerka96/codewars" target="_blank">
+<h2 align = "left">Solutions to the codewars exercises: </h2>
+<p align = "left"> 
+    <a href="https://github.com/valerka96/codewars" target="_blank"> 
+        <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
     </a>
-</p>
 <br>
 <br>
 <br>
