@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages, Tutorials and Tools:</h2>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
@@ -14,6 +14,11 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
     </a>
 </p>
+<h2 align = "left">My solutions to the exercises from different sites: </h2>
+<p align = "left"> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
+    
 
 <br>
 <br>
