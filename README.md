@@ -6,9 +6,6 @@
 
 <h2 align="left">Languages, Tutorials and Tools:</h2>
 <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black" />
-    </a>
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
     </a>
@@ -28,8 +25,7 @@
         <h2 align= "left"> Solutions to the codewars tasks</h2>
     </a>
 <br>
-<br>
-<br>
+
 
 <hr>
 <h3 align="left">Contact with me:</h3>
