@@ -25,7 +25,7 @@
     </a>
 <p align = "left"> 
     <a href="https://github.com/valerka96/codewars" target="_blank"> 
-        <h2 align= "left"> Solutions to the codewars exercises</h2>
+        <h2 align= "left"> Solutions to the codewars tasks</h2>
     </a>
 <br>
 <br>
