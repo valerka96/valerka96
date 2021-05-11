@@ -29,11 +29,9 @@
 </p>
 <br>
 <br>
-<hr>
 <br>
 
 <hr>
-
 <h3 align="left">Contact with me:</h3>
 <a href="https://www.instagram.com/starko.py/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" height="40"
