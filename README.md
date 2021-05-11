@@ -26,7 +26,7 @@
     </a>
 <br>
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=valerka96&show_icons=true&theme=tokyonight" />
-<img align="left" width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandabug&theme=tokyonight&hide_langs_below=3" />
+<img align="left" width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerka96&theme=tokyonight&hide_langs_below=3" />
 
 <hr>
 <h3 align="left">Contact with me:</h3>
