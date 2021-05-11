@@ -24,6 +24,6 @@
 
 <h3 align="left">Contact with me:</h3>
 <a href="https://www.instagram.com/starko.py/" target="blank">
-    <img align="center" src="https://www.flaticon.com/free-icon/instagram_889119?term=instagram&page=1&position=83&page=1&position=83&related_id=889119&origin=tag" height="40"
+    <img align="center" src="https://www.svgrepo.com/show/13639/instagram.svg" height="40"
     width="40" />
 </a>
