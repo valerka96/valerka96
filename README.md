@@ -14,15 +14,17 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" />
     </a>
 </p>
-<h2 align = "left">My solutions to the exercises from different sites: </h2>
+<p align = "left">
+<h2 align = "left">Solutions to the exercises from different sites: </h2>
 <p align = "left"> 
     <a href="https://www.codewars.com/users/valerka96" target="_blank"> 
         <h2 align= "left"> My level on codewars:</h2><img src = "https://www.codewars.com/users/valerka96/badges/large">
     </a>
 
+
 <a href="https://github.com/valerka96/codewars" target="_blank">     
-    <h2 align = "left">My solutions to codewars exercises</h2>
-</a>
+    <h2 align = "left">Solutions to codewars exercises</h2>
+    </a>
 </p>
 <br>
 <br>
